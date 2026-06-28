@@ -1,7 +1,7 @@
 
 # Anleitung: Impedanzanpassung mit einer Klasse-A-Emitterfolger-Endstufe
 
-Diese Anleitung erklärt detailliert, wie du deinen vorhandenen NF-Vorverstärker (aus deiner LTspice/Falstad-Simulation) erfolgreich an einen niederohmigen Lautsprecher anpassen kannst, indem du eine **Klasse-A-Emitterfolger-Endstufe** (Kollektorschaltung) als Stromtreiber dazwischenschaltest.
+Diese Anleitung erklärt detailliert, wie du deinen vorhandenen NF-Vorverstärker (aus deiner LSimulIDE/Falstad-Simulation) erfolgreich an einen niederohmigen Lautsprecher anpassen kannst, indem du eine **Klasse-A-Emitterfolger-Endstufe** (Kollektorschaltung) als Stromtreiber dazwischenschaltest.
 
 ---
 
