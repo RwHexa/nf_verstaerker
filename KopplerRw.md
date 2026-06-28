@@ -31,10 +31,4 @@ Der **Klasse-A-Emitterfolger** erfüllt genau diese Anforderungen. Er liefert zw
 
 ## 3. Schaltplan der Endstufe (Anschlussplan)
 
-+9V DC (Batterie Pluspol)
-                 |
-                 +---------------------------+-------------------+
-                 |                           |                   |
-                [ ] R_C (3k)                 | Collector         |
-                 |                           v                   |
-                 +----[||]----+            |/  T2 (BD139)       [ ] R_E_bias
+![Alternativtext](Lautsprecher.png)
